@@ -1,0 +1,5 @@
+{
+  "name": "AI Music Video Generator",
+  "description": "Create a unique music video for your audio track using AI-generated artwork. Upload your song, provide a visual prompt, and watch as Gemini crafts a visual story that syncs with your music.",
+  "requestFramePermissions": []
+}
